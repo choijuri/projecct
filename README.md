@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Jekyll 로 블로그를 만들면 이런 점이 좋아요. :blush:
 
 You can use the [editor on GitHub](https://github.com/choijuri/projecct/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+```JAVA
+System.out.println("hello world!");
+```
 
 ### Markdown
 
